@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">👋 Brian Silva</h1>
 
-<!--
-**BraianS/BraianS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🚀 Future Developer </h3>
 
-Here are some ideas to get you started:
+### 📖 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Braian Silva, a passionate learner and problem-solver, currently diving deep into **NextJS**. I love connecting with people to exchange ideas.
+
+When I'm not debugging:
+- 📖 Reading manga and books
+- 🎮 Sometimes I play a game
+- 🐧 Exploring Linux
+- 🎬 Watching anime and movies
+
+### 💻 Tech stack
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=braians&show_icons=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=graywhite)
+
+### 📚 **Currently reading**
+*"Clean Code" by Robert C. Martin*
+
+### 📫 Let's connect!
+
+I'm always open to interesting conversations and collaborations. Feel free to reach out!
