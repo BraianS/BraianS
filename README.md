@@ -19,7 +19,7 @@ When I'm not debugging:
 ![Braian's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=braians)
 
 ### 📚 **Currently reading**
-*"Clean Code" by Robert C. Martin*
+*"Test-Driven Development By Example" by Kent Beck *
 
 ### 📫 Let's connect!
 
