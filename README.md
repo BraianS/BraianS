@@ -1,4 +1,4 @@
-<h1 align="left">👋 Brian Silva</h1>
+<h1 align="left">👋 Braian Silva</h1>
 
 <h3>🚀 Future Developer </h3>
 
